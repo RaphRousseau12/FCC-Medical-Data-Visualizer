@@ -5,7 +5,7 @@
 <p style="text-align: center">
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python 3"/></a>
   <a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
-  <a href="https://seaborn.pydata.org"><img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white" alt="Seaborn"/></a>
+  <a href="https://seaborn.pydata.org"><img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white" alt="Seaborn"/></a>
 </p>
 
 # Medical Data Visualizer
