@@ -18,6 +18,7 @@ A Python program to visualize and make calculations from medical examination dat
 - pandas
 - matplotlib
 - seaborn
+- numpy
 
 ## Features
 - Generating a bar plot of cardio against variables like active, alco, cholesterol, gluc, overweight, smoke
